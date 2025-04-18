@@ -1,16 +1,30 @@
-# basketballpoints
+# 🏀 Basketball Points Counter App
 
-A new Flutter project.
+A simple and clean Flutter app to count basketball points for **Team A** and **Team B** using the **BLoC pattern (flutter_bloc)**.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_٢٠٢٥٠٤١٨-١١٣٨٠٦](https://github.com/user-attachments/assets/b9aaff66-5b0b-4e2f-9ee2-c4d1124bf2b3)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- Count points for two teams: A & B
+- Add 1, 2, or 3 points for each team
+- Reset button to reset both scores
+- Built with **Flutter BLoC** for clean state management
+
+---
+
+## 📦 Built With
+
+- **Flutter**
+- **flutter_bloc**
+- **Dart**
+
+---
+
+## 📁 Folder Structure
+
