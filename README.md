@@ -26,5 +26,4 @@ A simple and clean Flutter app to count basketball points for **Team A** and **T
 
 ---
 
-## 📁 Folder Structure
 
